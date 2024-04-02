@@ -1,0 +1,21 @@
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    height: 30px;
+    margin: 8px 0 0 16px; /* ajusta según sea necesario */
+    object-fit: contain;
+  }
+  
+  .searchContainer {
+    display: flex;
+    align-items: center;
+  }
+  
+  .searchIcon {
+    margin-right: 8px; /* ajusta según sea necesario */
+  }
+  
